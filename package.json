@@ -1,0 +1,14 @@
+{
+  "name": "fpj-manager",
+  "version": "1.0.0",
+  "bin": {
+    "fpj": "./bin/fpj"
+  },
+  "dependencies": {
+    "axios": "^1.7.2",
+    "child_process": "^1.0.2",
+    "fs": "^0.0.1-security",
+    "path": "^0.12.7",
+    "tar": "^7.1.0"
+  }
+}
